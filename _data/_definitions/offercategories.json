@@ -1,0 +1,14 @@
+{
+  "name": {
+  	"required":true
+   },
+  "url_friendly_name":
+    {
+      "required": true,  
+      "label": "Page Url Slug"
+    },
+  "code":
+  {
+  	"required":true
+  } 
+}
