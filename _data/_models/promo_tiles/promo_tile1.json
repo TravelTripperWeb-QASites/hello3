@@ -1,0 +1,10 @@
+{
+	"title": "promo1",
+	"desc": "<p>promo</p>",
+	"button_text": "promo button",
+	"button_link": "promo url",
+	"sort_order": 1,
+	"item_image": {
+		"url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/342_453_560/media/2017-02-15-014521/images3.jpeg"
+	}
+}

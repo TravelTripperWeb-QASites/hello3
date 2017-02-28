@@ -1,0 +1,34 @@
+{
+  "title":
+  {
+    "required": true,
+    "label": "Promo Title"
+  },
+  "desc":
+  {
+    "required": true,
+    "type": "richtext",
+    "label": "Description"
+  },
+  "button_text":
+  {
+    "required": true,
+    "label": "Button Text"
+  },
+  "button_link":
+  {
+    "required": true,
+    "label": "Url"
+  },
+  "item_image":
+  {
+    "required": true,
+    "type": "image",
+    "label": "Upload Image"
+  },
+  "sort_order":
+  {
+    "type": "integer",
+    "required": true
+  }
+}
